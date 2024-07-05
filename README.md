@@ -15,35 +15,35 @@ I created an Active Directory home lab to gain hands-on experience with director
 - <b>Windows 10</b> (21H2)
 - <b>Windows Server 2022</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
+
+In this project, I set up an Active Directory environment using two virtual machines: one as the Domain Controller and the other as a Client machine. Each Virtual Machine is configured with two network adapters to ensure proper network communication. I used NAT to host the IP address from my router and an internal network so that my Domain controller can communicate with external networks. 
 
 <p align="center">
-Creating Users with PowerShell: <br/>
+Set Up Virtual Machines (VMs) <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Configure Network Settings  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Install Active Directory Domain Services (AD DS) <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Join Client Machine to Domain  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Create Users  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirmation: Pinged Netwok and Domain  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
