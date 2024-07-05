@@ -21,8 +21,8 @@ In this project, I set up an Active Directory environment using two virtual mach
 
 <p align="center">
 Set Up Virtual Machines (VMs) <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img src="VM.JPG"</img>
+ <br />
 <br />
 Configure Network Settings  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
