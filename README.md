@@ -21,7 +21,7 @@ In this project, I set up an Active Directory environment using two virtual mach
 
 <p align="center">
 Set Up Virtual Machines (VMs) <br/>
-<img src="VM.JPG"</img>
+<img src="images/VM.JPG"</img>
  <br />
 <br />
 Configure Network Settings  <br/>
