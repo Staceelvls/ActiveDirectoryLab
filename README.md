@@ -32,16 +32,20 @@ Install Active Directory Domain Services (AD DS) <br/>
 <img src="images/TSADservermanager.JPG"</img>
 <br />
 <br />
- Create Users <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Users <br/>
+<img src="images/TSadduser.JPG"</img>
+<br />
+<br />
+Successful Log in <br/>
+<img src="images/TSclientloginpparker.JPG"</img>
 <br />
 <br />
 Join Client Machine to Domain  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/TSconnectdomain.JPG"</img>
 <br />
 <br />
-Confirmation: Pinged Netwok and Domain  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connection Confirmed!  <br/>
+<img src="images/tsconfirmpings.JPG"</img>
 <br />
 <br />
 </p>
