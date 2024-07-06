@@ -25,7 +25,7 @@ Set Up Virtual Machines (VMs) <br/>
  <br />
 <br />
 Configure Network Settings  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/adpter2.JPG"</img>
 <br />
 <br />
 Install Active Directory Domain Services (AD DS) <br/>
