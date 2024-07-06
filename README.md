@@ -25,7 +25,7 @@ Set Up Virtual Machines (VMs) <br/>
  <br />
 <br />
 Configure Network Settings  <br/>
-<img src="images/adpter2.JPG"</img>
+<img src="images/TSconfignet.JPG"</img>
 <br />
 <br />
 Install Active Directory Domain Services (AD DS) <br/>
