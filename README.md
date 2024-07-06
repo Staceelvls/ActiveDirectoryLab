@@ -29,14 +29,14 @@ Configure Network Settings  <br/>
 <br />
 <br />
 Install Active Directory Domain Services (AD DS) <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/TSADservermanager.JPG"</img>
 <br />
 <br />
-Join Client Machine to Domain  <br/>
+ Create Users <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Users  <br/>
+Join Client Machine to Domain  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
