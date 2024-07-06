@@ -34,14 +34,14 @@ Install Active Directory Domain Services (AD DS) <br/>
 <br />
 Create Users <br/>
 <img src="images/TSadduser.JPG"</img>
+ <br />
+<br />
+Join Client Machine to Domain  <br/>
+<img src="images/TSconnectdomain.JPG"</img>
 <br />
 <br />
 Successful Log in <br/>
 <img src="images/TSclientloginpparker.JPG"</img>
-<br />
-<br />
-Join Client Machine to Domain  <br/>
-<img src="images/TSconnectdomain.JPG"</img>
 <br />
 <br />
 Connection Confirmed!  <br/>
