@@ -1,4 +1,4 @@
-<h1><img src="images/github-header-image.png"</img></h1>
+<h1><img src="images/githubAD.png"</img></h1>
 
 <h2>Description</h2>
 I created an Active Directory home lab to gain hands-on experience with directory services. By running this home lab, I have enhanced my skills in managing user and computer accounts, configuring and deploying group policies, and ensuring network security within an Active Directory environment. This practical setup enables me to experiment with different configurations and troubleshoot issues in a controlled environment, thereby preparing me for real-world scenarios in enterprise environments.
