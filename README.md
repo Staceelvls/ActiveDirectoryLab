@@ -24,7 +24,11 @@ Set Up Virtual Machines (VMs) <br/>
 <img src="images/TScombinedVM.JPG"</img>
  <br />
 <br />
-Configure Network Settings  <br/>
+Diagram <br/>
+<img src="images/VMADgram.JPG"</img>
+<br />
+<br /> 
+ Configure Network Settings  <br/>
 <img src="images/TSconfignet.JPG"</img>
 <br />
 <br />
