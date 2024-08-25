@@ -20,38 +20,22 @@ I created an Active Directory home lab to gain hands-on experience with director
 In this project, I set up an Active Directory environment using two virtual machines: one as the Domain Controller and the other as a Client machine. Each Virtual Machine is configured with two network adapters to ensure proper network communication. I used NAT to host the IP address from my router and an internal network so that my Domain controller can communicate with external networks. 
 
 <p align="center">
-Set Up Virtual Machines (VMs) <br/>
+<h2>Set Up Virtual Machines (VMs) <br/></h2>
 <img src="images/TScombinedVM.JPG"</img>
- <br />
-<br />
-Diagram <br/>
+<h2>Diagram <br/></h2>
 <img src="images/VMADgram.jpg"</img>
-<br />
-<br /> 
-Configure Network Settings  <br/>
+<h2>Configure Network Settings  <br/></h2>
 <img src="images/TSconfignet.JPG"</img>
-<br />
-<br />
-Install Active Directory Domain Services (AD DS) <br/>
+<h2>Install Active Directory Domain Services (AD DS) <br/></h2>
 <img src="images/TSADservermanager.JPG"</img>
-<br />
-<br />
-Create Users <br/>
+<h2>Create Users <br/></h2>
 <img src="images/TSadduser.JPG"</img>
- <br />
-<br />
-Join Client Machine to Domain  <br/>
+<h2>Join Client Machine to Domain  <br/></h2>
 <img src="images/TSconnectdomain.JPG"</img>
-<br />
-<br />
-Successful Log in <br/>
+<h2>Successful Log in <br/></h2>
 <img src="images/TSclientloginpparker.JPG"</img>
-<br />
-<br />
-Connection Confirmed!  <br/>
+<h2>Connection Confirmed!  <br/></h2>
 <img src="images/tsconfirmpings.JPG"</img>
-<br />
-<br />
 </p>
 
 <h2>Goal:</h2>
