@@ -19,34 +19,39 @@ I created an Active Directory home lab to gain hands-on experience with director
 
 In this project, I set up an Active Directory environment using two virtual machines: one as the Domain Controller and the other as a Client machine. Each Virtual Machine is configured with two network adapters to ensure proper network communication. I used NAT to host the IP address from my router and an internal network so that my Domain controller can communicate with external networks. 
 
-<p align="center">
-<h2>Set Up Virtual Machines (VMs) <br/></h2>
-<img src="images/TScombinedVM.JPG"</img>
-<h2>Diagram <br/></h2>
-<img src="images/VMADgram.jpg"</img>
-<h2>Configure Network Settings  <br/></h2>
-<img src="images/TSconfignet.JPG"</img>
-<h2>Install Active Directory Domain Services (AD DS) <br/></h2>
-<img src="images/TSADservermanager.JPG"</img>
-<h2>Create Users <br/></h2>
-<img src="images/TSadduser.JPG"</img>
-<h2>Join Client Machine to Domain  <br/></h2>
-<img src="images/TSconnectdomain.JPG"</img>
-<h2>Successful Log in <br/></h2>
-<img src="images/TSclientloginpparker.JPG"</img>
-<h2>Connection Confirmed!  <br/></h2>
-<img src="images/tsconfirmpings.JPG"</img>
+---
+### Set Up Virtual Machines (VMs)
+<img src="images/TScombinedVM.JPG" width="800"/>
+
+ ---
+### Diagram
+<img src="images/VMADgram.jpg" width="800" />
+
+---
+### Configure Network Settings
+<img src="images/TSconfignet.JPG" width="700"/>
+
+---
+### Install Active Directory Domain Services (AD DS)
+<img src="images/TSADservermanager.JPG" width="600"/>
+
+---
+### Create Users
+<img src="images/TSadduser.JPG" width="600"/>
+
+---
+### Join Client Machine to Domain 
+<img src="images/TSconnectdomain.JPG" width="600"/>
+
+---
+### Successful Log in
+<img src="images/TSclientloginpparker.JPG" width="500"/>
+
+---
+### Connection Confirmed!
+<img src="images/tsconfirmpings.JPG" width="500"/>
 </p>
 
 <h2>Goal:</h2>
 To build practical skills that can be directly applied in IT roles involving network and systems administration.
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
