@@ -25,7 +25,7 @@ In this project, I set up an Active Directory environment using two virtual mach
 
  ---
 ### Diagram
-<img src="images/VMADgram.jpg" width="800" />
+<img src="images/VMADgram.jpg" width="700" />
 
 ---
 ### Configure Network Settings
